@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "128385445587",
+    "project_id": "doc-locker-7c66b",
+    "storage_bucket": "doc-locker-7c66b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128385445587:android:2aa52b0aa7e7e9e6b8ae26",
+        "android_client_info": {
+          "package_name": "com.example.doclocker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128385445587-rhpapph7jh44k86efpaiuh3o3itfks2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO5hqJxaWith8UB-d4dRe4KoaP_R9H_oY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128385445587-rhpapph7jh44k86efpaiuh3o3itfks2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
