@@ -12,5 +12,3 @@ Techs used:
 2) Backend: Firebase Realtime Database and Storage
 3) Authentication: Firebase Authentication throughb E-mail and password
 
-A sample working video
-https://clipchamp.com/watch/yVD9h3DZbsP
